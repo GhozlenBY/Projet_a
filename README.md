@@ -28,4 +28,7 @@ Ce projet implémente une application TinyML sur un kit Arduino pour reconnaîtr
 
 • Téléversement du code du jeu Yes_No_Question_Game sur l'Arduino.
 • Le programme pose des questions et utilise les gestes détectés par l'IMU pour évaluer les réponses.
+
+# Utilisation
+Lancez le programme et répondez aux questions posées par des gestes de "yes" ou "no". Le système évaluera vos réponses et affichera un score basé sur la précision des réponses.
  
